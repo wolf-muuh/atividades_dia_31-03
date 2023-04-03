@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ultra mega power comparador de números/1.0.0": {
+        "runtime": {
+          "ultra mega power comparador de números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ultra mega power comparador de números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

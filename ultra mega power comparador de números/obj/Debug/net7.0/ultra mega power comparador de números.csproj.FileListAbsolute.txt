@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\bin\Debug\net7.0\ultra mega power comparador de números.exe
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\bin\Debug\net7.0\ultra mega power comparador de números.deps.json
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\bin\Debug\net7.0\ultra mega power comparador de números.runtimeconfig.json
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\bin\Debug\net7.0\ultra mega power comparador de números.dll
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\bin\Debug\net7.0\ultra mega power comparador de números.pdb
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.dll
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\refint\ultra mega power comparador de números.dll
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.pdb
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ultra mega power comparador de números.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\ultra mega power comparador de números\obj\Debug\net7.0\ref\ultra mega power comparador de números.dll

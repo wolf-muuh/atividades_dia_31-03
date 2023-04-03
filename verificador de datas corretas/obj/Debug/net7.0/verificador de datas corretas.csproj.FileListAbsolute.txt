@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\verificador de datas corretas\bin\Debug\net7.0\verificador de datas corretas.exe
+C:\Users\54750759805\Desktop\verificador de datas corretas\bin\Debug\net7.0\verificador de datas corretas.deps.json
+C:\Users\54750759805\Desktop\verificador de datas corretas\bin\Debug\net7.0\verificador de datas corretas.runtimeconfig.json
+C:\Users\54750759805\Desktop\verificador de datas corretas\bin\Debug\net7.0\verificador de datas corretas.dll
+C:\Users\54750759805\Desktop\verificador de datas corretas\bin\Debug\net7.0\verificador de datas corretas.pdb
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.dll
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\refint\verificador de datas corretas.dll
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.pdb
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\verificador de datas corretas.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\verificador de datas corretas\obj\Debug\net7.0\ref\verificador de datas corretas.dll
